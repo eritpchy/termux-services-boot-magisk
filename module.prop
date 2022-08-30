@@ -1,0 +1,6 @@
+id=net.xdow.termux-service-boot
+name=Termux Services Boot
+version=1.0.0
+versionCode=1
+author=Jason Eric
+description=Run Termux-Services on device startup
